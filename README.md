@@ -1,4 +1,5 @@
 # Minha API - Express & Prisma
+Francisco Carlos
 
 API RESTful desenvolvida com Node.js, Express, Prisma ORM e SQLite, com documentação interativa utilizando Swagger UI.
 
